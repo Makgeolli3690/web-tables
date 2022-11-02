@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+div.randomness {
+    background-color: beige;
+    padding: 20px;
+    border: 1px solid black;
+}
+table.derandomness {
+    border: 3px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 12px;
+}
+table.derandomness td, th{
+    padding: 5px;
+    border: 1px solid black;
+}
+table.derandomness thead {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+td.ad {
+    background-color: aquamarine;
+    color: red;
+}
+td.bd {
+    background-color: aquamarine;
+    color: orange;
+}
+td.cd {
+    background-color: aquamarine;
+    color: yellow;
+}
+td.dd {
+    background-color: aquamarine;
+    color: yellowgreen;
+}
+td.ed {
+    background-color:aquamarine;
+    color: green;
+}
+td.fd {
+    background-color: aquamarine;
+    color: blue;
+}
+td.gd {
+    background-color:aquamarine;
+    color: blueviolet;
+}
+td.hd {
+    background-color:aquamarine;
+    color: violet;
+}
+
+td.id {
+    background-color:aquamarine;
+    color: pink;
+}
+
+td.jd {
+    background-color:aquamarine;
+    color: brown;
+}
